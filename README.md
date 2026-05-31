@@ -4,7 +4,6 @@
 
 🎥 [Vídeo de demonstração](https://youtu.be/TT9y1vTKzuc)
 
----
 
 ## Descrição
 
@@ -12,7 +11,6 @@ O sistema de busca por palavras-chave (TP03) é uma evolução do sistema acadê
 
 O sistema utiliza persistência em arquivos binários de acesso aleatório (`RandomAccessFile`), estendendo as estruturas de dados já existentes (Tabelas Hash Extensíveis e Árvores B+) com a inclusão de **Listas Invertidas** para indexação e busca de termos.
 
----
 
 ## Estrutura de Classes
 
